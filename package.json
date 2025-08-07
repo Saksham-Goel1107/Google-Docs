@@ -137,7 +137,7 @@
     "prettier": "^3.4.1",
     "prettier-plugin-tailwindcss": "^0.6.9",
     "sort-classes": "npm:prettier-plugin-tailwindcss",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^4.1.11",
     "tidy-imports": "npm:@trivago/prettier-plugin-sort-imports",
     "typescript": "^5"
   },
