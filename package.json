@@ -90,7 +90,7 @@
     "@tiptap/extension-font-family": "^2.10.3",
     "@tiptap/extension-highlight": "^3.0.1",
     "@tiptap/extension-image": "^3.0.1",
-    "@tiptap/extension-link": "^2.11.2",
+    "@tiptap/extension-link": "^3.0.9",
     "@tiptap/extension-table": "^2.10.3",
     "@tiptap/extension-table-cell": "^2.10.3",
     "@tiptap/extension-table-header": "^2.10.3",
