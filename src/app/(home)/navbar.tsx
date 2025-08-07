@@ -30,8 +30,13 @@ export const Navbar = () => {
 
         <UserButton />
 
-        <Link href={links.sourceCode} target="_blank" rel="noreferrer noopener" className="transition-opacity hover:opacity-75">
+        <Link href={links.refinedSource} target="_blank" rel="noreferrer noopener" className="transition-opacity hover:opacity-75 flex flex-col items-center">
           <FaGithub className="size-6" />
+          <span className="ml-2 hidden md:inline text-xs font-semibold text-gray-600">Real Project</span>
+        </Link>
+        <Link href={links.sourceCode} target="_blank" rel="noreferrer noopener" className="transition-opacity hover:opacity-75 flex flex-col items-center">
+          <FaGithub className="size-6" />
+          <span className="ml-2 hidden md:inline text-xs font-semibold text-gray-600">Refined/Improved/This Project</span>
         </Link>
       </div>
     </nav>

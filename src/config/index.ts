@@ -60,4 +60,5 @@ export const siteConfig: Metadata = {
 
 export const links = {
   sourceCode: 'https://github.com/Saksham-Goel1107/google-docs',
+  refinedSource: 'https://github.com/sanidhyy/google-docs-clone',
 } as const;
